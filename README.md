@@ -8,9 +8,9 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 - **Glassmorphism Design:** The clock is styled with a modern, blurred, semi-transparent effect for a sleek look.
 - **Zoom Feature:** The clock allows users to zoom in or out to resize the clock hands and clock container.
 
-## Demo
+## Preview
 
-![Clock Demo](images/clock-template.svg)  
+![](./images/demo.png)  
 *Zoom in or out to change the size of the clock.*
 
 ## Technologies Used
