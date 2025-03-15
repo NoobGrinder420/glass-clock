@@ -10,7 +10,7 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 
 ## Preview
 
-![](./images/demo.png)  
+![](./images/preview.png)  
 *Zoom in or out to change the size of the clock.*
 
 ## Technologies Used
