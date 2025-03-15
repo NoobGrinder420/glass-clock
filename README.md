@@ -10,7 +10,9 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 
 ## Preview
 
-![](./images/preview.png)  
+You can view the website by visiting the following link:  
+[Live Demo](https://noobgrinder420.github.io/glass-clock/)
+
 *Zoom in or out to change the size of the clock.*
 
 ## Technologies Used
@@ -19,19 +21,11 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 - **CSS**: For styling the clock with glassmorphism effects and positioning.
 - **JavaScript**: For dynamically updating the time and rotating the clock hands.
 
-## Installation
-
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/glassmorphism-analog-clock.git
-    ```
-
-2. Open the `index.html` file in your browser to view the clock.
-
 ## How to Use
 
 1. **Viewing the Clock:**
-   Simply open the `index.html` file in any modern browser to view the live clock.
+   Simply visit the deployed website on GitHub Pages by following this link:  
+   [Live Demo](https://noobgrinder420.github.io/glass-clock/)
 
 2. **Zooming In and Out:**
    You can zoom in or out on the page to enlarge or shrink the clock’s size using the following methods:
@@ -43,10 +37,4 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 3. **Clock Hands Movement:**
    - The hour, minute, and second hands rotate in real-time, updating every second.
    - The minute and second hands move in precise increments as per the current time, and the hour hand gradually moves as time progresses.
-
-## How it Works
-
-- **HTML**: The clock is composed of a `div` container (`.clock`) that holds the clock hands (`.hour`, `.minute`, `.second`).
-- **CSS**: The `.clock` container has a semi-transparent, blurred background to achieve the glassmorphism effect. The hands are styled to rotate around the bottom-center using `transform-origin: bottom center`.
-- **JavaScript**: The JavaScript uses `setInterval()` to update the position of the clock hands every second, based on the current time retrieved from the `Date` object. It applies the calculated rotations using CSS `transform: rotate()`.
 
