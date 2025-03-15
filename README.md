@@ -28,12 +28,6 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 
 2. Open the `index.html` file in your browser to view the clock.
 
-3. Ensure all image and CSS files are correctly placed in their respective directories:
-   - `images/clock-template.svg` (Clock Template Image)
-   - `images/background.png` (Background Image for the page)
-   - `css/style.css` (CSS File for styling)
-   - `js/script.js` (JavaScript file for clock logic)
-
 ## How to Use
 
 1. **Viewing the Clock:**
@@ -56,10 +50,3 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 - **CSS**: The `.clock` container has a semi-transparent, blurred background to achieve the glassmorphism effect. The hands are styled to rotate around the bottom-center using `transform-origin: bottom center`.
 - **JavaScript**: The JavaScript uses `setInterval()` to update the position of the clock hands every second, based on the current time retrieved from the `Date` object. It applies the calculated rotations using CSS `transform: rotate()`.
 
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
