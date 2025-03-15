@@ -11,7 +11,7 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 ## Preview
 
 You can view the website by visiting the following link:  
-[Live Demo](https://noobgrinder420.github.io/glass-clock/)
+[Website](https://noobgrinder420.github.io/glass-clock/)
 
 *Zoom in or out to change the size of the clock.*
 
@@ -25,16 +25,13 @@ You can view the website by visiting the following link:
 
 1. **Viewing the Clock:**
    Simply visit the deployed website on GitHub Pages by following this link:  
-   [Live Demo](https://noobgrinder420.github.io/glass-clock/)
+   [Website](https://noobgrinder420.github.io/glass-clock/)
 
 2. **Zooming In and Out:**
-   You can zoom in or out on the page to enlarge or shrink the clock’s size using the following methods:
-   - **Browser Zoom**: Use `Ctrl` + `+` to zoom in and `Ctrl` + `-` to zoom out on most browsers. Alternatively, use `Cmd` + `+` / `Cmd` + `-` for Mac users.
-   - **Mouse Scroll**: Hold the `Ctrl` key (or `Cmd` on Mac) and scroll your mouse wheel up to zoom in or down to zoom out.
+   You can zoom in or out on the page to enlarge or shrink the clock’s size.
+   
+   Use `Ctrl` + `+` to zoom in and `Ctrl` + `-` to zoom out on most browsers. Alternatively, use `Cmd` + `+` / `Cmd` + `-` for Mac users.
+
    
    This will resize the clock hands and the clock container itself, providing flexibility in how you view the clock.
-
-3. **Clock Hands Movement:**
-   - The hour, minute, and second hands rotate in real-time, updating every second.
-   - The minute and second hands move in precise increments as per the current time, and the hour hand gradually moves as time progresses.
 
