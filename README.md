@@ -10,8 +10,7 @@ This is a simple and elegant **Glassmorphism Analog Clock** built using HTML, CS
 
 ## Preview
 
-You can view the website by visiting the following link:  
-[Website](https://noobgrinder420.github.io/glass-clock/)
+![preview](images/preview.png)
 
 *Zoom in or out to change the size of the clock.*
 
